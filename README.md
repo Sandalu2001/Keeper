@@ -2,6 +2,10 @@
 
 This repository contains a Google Keeper application clone built using React.js. The Google Keeper clone is a note-taking app that allows users to create, edit, and delete notes in a user-friendly interface.
 
+## ScreenShots
+
+<img width="1369" alt="keeper" src="https://github.com/Sandalu2001/Keeper/assets/86417299/fde8eadc-440d-4c8e-94ee-5b862084d289">
+
 ## Features
 
 * Create Notes: Users can create new notes by entering a title and content for each note. The app supports multiple notes creation, making it easy to organize thoughts and tasks.
